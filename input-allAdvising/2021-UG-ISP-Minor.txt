@@ -1,0 +1,54 @@
+2021-2022 Undergraduate Catalog [ARCHIVED CATALOG]
+
+INFORMATION SECURITY AND POLICY, MINOR
+
+The minor in Information Security and Policy, will prepare students to navigate the complex landscape of today’s data-driven world
+by exploring fundamental aspects of information security, privacy, and provenance, with the ultimate goal of influencing
+organizational and societal policies. Students will learn the philosophical foundations of ethical hacking, key considerations for
+securing data and systems, digital forensics, and state-of-the-art tools to protect critical data in application spaces such as
+medicine and politics. This minor moves beyond traditional cybersecurity in order to formulate best policies and practices that
+highlight human needs in a world where data often comes first.
+
+Students pursuing a minor in Information Security and Policy are required to:
+
+REQUIRED CORE (25 CREDITS)
+
+   CPSC 230 - COMPUTER SCIENCE I
+   Students are introduced to problem-solving methods and algorithm development through an interactive and easy-to-learn programming language, Python. (Offered every semester.) 3 credits
+   
+
+   CENG 231 - SYSTEMS PROGRAMMING
+   Prerequisite, CPSC 230. Corequisite, CENG 231L. This course introduces students to concepts and techniques in systems programming with the programming languages C and C++ in a *nix environment. Students will gain insight into hardware-software interfaces through hands-on projects involving system calls, concurrency, network programming, memory mapping, and low-level mechanisms for inter-process communication. A laboratory component will allow students to implement conceptual ideas in code for enterprise, real-time, and embedded hardware targets. Letter grade with Pass/No Pass option. (Offered fall semester.) 3 credits
+   
+   CENG 231L - LAB - SYSTEMS PROGRAMMING
+   Prerequisite, CPSC 230. Corequisite, CENG 231. Laboratory component of CENG 231. Letter grade with Pass/No Pass option. (Offered fall semester.) 1 credit
+   
+   HUM 312 - WRITING IN THE LEGAL CONTEXT
+   Writing in the Legal Context will teach students important basic writing skills, tailored to the kinds of questions and contexts that arise in legal environments. Students will be challenged to develop their expository skills, improve their persuasive writing, and learn to access, analyze, and digest both primary and secondary legal sources. Letter grade. (Offered spring semester.) 3 credits
+   
+
+   POSC 317 - MEDIA AND POLITICS
+   An examination of the role of the mass media in the American political process. Topics include various models and theories of political communication, the construction of news, agenda setting, mass media effects, campaign communications, and the impact of press coverage of political actors and institutions. Some sections may be taught with COM 317. (Offered every year.) 3 credits
+   
+   CPSC 353 - DATA COMMUNICATIONS AND COMPUTER NETWORKS
+   Prerequisite, CENG 231  or CPSC 231. Students explore the principles and techniques of data communications and give special emphasis to networks and distributed systems. The I.S.O. Reference Model for open systems interconnection will be investigated and the function and operation of each protocol layer analyzed in detail. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   ISP 363 - CYBERSECURITY 1
+   Prerequisite, CPSC 353. Students are exposed to the world of cybersecurity. Emphasis is placed on understanding, recognizing, and patching security exploits. Students will use standard industry tools and techniques to gain hands-on experience in this rapidly-growing field. Note that students majoring in computer science, computer engineering, software engineering, or data analytics may not use ISP 363 as an elective in the major if they are also minoring in Information Security and Policy. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   ISP 452 - FUNDAMENTALS OF DIGITAL FORENSICS
+   Prerequisite, ISP 363. This course introduces students to the methodologies and procedures associated with digital forensic analysis and investigations within a network infrastructure. Students will develop an understanding of core topics such as topologies, protocols, and various software tools required to conduct forensic analysis/investigations. Students will comprehend the importance of network forensic principles, legal considerations, digital evidence controls, and proper documentation of forensic procedures and evidence collection. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   CPSC 453 - NETWORK IMPLEMENTATION AND SECURITY
+   Prerequisite, CPSC 353. Students explore the principles and techniques for implementing TCP/IP based networks using Microsoft Windows and Linux servers and clients, including the skills to configure, customize, optimize, troubleshoot, and integrate networks. (Offered as needed.) 3 credits
+   
+ADVANCED TOPICS (3 CREDITS)
+
+complete three 1-credit sections from the following 
+
+   
+   ISP 371 - ADVANCED TOPICS IN CYBERSECURITY
+   Prerequisite, ISP 363. In this course students will be exposed to several in-depth topics in computer security through directed reading, guest speakers, hands-on labs and practicums. Letter grade with Pass/No Pass option. Repeatable for credit if the topic is different. (Offered every year.) 1 credit
+   
+TOTAL CREDITS 28
+

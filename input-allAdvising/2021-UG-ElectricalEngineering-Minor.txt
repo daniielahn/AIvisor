@@ -1,0 +1,75 @@
+2021-2022 Undergraduate Catalog [ARCHIVED CATALOG]
+
+ELECTRICAL ENGINEERING, MINOR
+
+The minor in Electrical Engineering introduces students to the fundamental concepts of electrical and electronic component design,
+fabrication, and integration. Students will gain hands-on experience building analog and digital circuitry, analyzing signals and
+systems, and deploying electronics as part of larger systems leveraging microcontrollers, communication networks, and related
+technology.
+
+Students pursuing a minor in Electrical Engineering are required to:
+
+REQUIREMENTS (27 CREDITS)
+
+   MATH 115 - ACCELERATED CALCULUS PART I: DIFFERENTIATION AND INTEGRATION
+   Prerequisite, MATH 101  or equivalent. This course is an intensive introduction to the calculus of elementary functions and its applications to science. Students study fundamental concepts of limits, continuity, and derivatives, and explore the derivatives and integrals of polynomials, rational functions, exponentials, logarithms, and trigonometric functions, followed by the chain rule, implicit differentiation, logarithmic differentiation, applications of differentiation, optimization, definite integrals, Riemann sums and the fundamental theorem of Calculus, applications of integration, integration techniques and methods, sequences and series, introduction to differential equations, power series. Students who take MATH 109  or MATH 110  may not also receive credit for MATH 115. Letter grade. (Offered fall semester.) 4 credits
+   
+   EENG 200 - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, EENG 200L. Students begin their study of electronics and circuits by studying electricity (current, energy, voltage, power), electronic components (resistors, capacitors, diodes, etc), and fundamental laws for circuits. Students will gain hands on experience building circuits with solderless breadboards in a separate laboratory component. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   EENG 200L - LAB - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110. Corequisite, EENG 200. Lab component of EENG 200. Letter grade with Pass/No Pass option. (Offered spring semester.) 1 credit
+   
+   EENG 300 - ELECTRONICS AND CIRCUITS II
+   Prerequisite, EENG 200. Corequisite, EENG 300L. Students continue their study of circuits, moving into digital and mixed signal circuit design. Topics include transistors, diodes, AC and DC analysis, analyzing circuit response, and integrated circuits. Students will gain hands on experience in the lab by prototyping circuits, simulating complex designs, and designing and analyzing simple PCB circuits. Letter grade with Pass/No Pass option. (Offered fall semester.) 3 credits
+   
+   EENG 300L - LAB - ELECTRONICS AND CIRCUITS II
+   Prerequisite, EENG 200L. Corequisite, EENG 300 . Lab component of EENG 300 . Letter grade with Pass/No Pass option. (Offered fall semester.) 1 credit
+   
+   EENG 320 - MICROELECTRONICS I
+   Prerequisites, EENG 200, PHYS 102. Corequisite, EENG 320L. Students are introduced to the fundamental semiconductor devices such as diodes, MOSFETs and BJTs. The I-V characteristics, DC models, and AC small signal models of these devices are utilized in circuit design. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   EENG 320L - MICROELECTRONICS I LAB
+   Prerequisites, EENG 200, PHYS 102. Corequisite, EENG 320. Lab component of EENG 320. Letter grade with Pass/No Pass option. (Offered as needed.) 1 credit
+   
+   EENG 420 - MICROELECTRONICS II
+   Prerequisites, EENG 300, EENG 320. Students design integrated circuit amplifiers like differential amplifiers, power amplifiers, and multi-stage operational amplifiers, including their frequency response and design tradeoffs. Op-amp based circuits like active filters and oscillators are also introduced. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   select one of the following sequences (8 credits)
+   
+   sequence 1
+
+   
+   PHYS 101 - GENERAL PHYSICS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, PHYS 101L  or previous credit for PHYS 101L. Students learn how to apply the core principles of calculus-based physics to everyday situations, including connections to chemistry, computation, and engineering. Students develop broadly applicable critical thinking, approximation, and problem-solving skills. Topics include symmetry, particles and fields, measurement error, reference frames, kinematics, conservation (of energy, momentum, angular momentum), interactions, transfer (as power, force, torque), and small oscillations. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   PHYS 101L - GENERAL PHYSICS I LABORATORY
+   Prerequisite, MATH 110, or MATH 115. Corequisite, PHYS 101  or previous credit for PHYS 101. Students solidify understanding of the physical concepts explored in PHYS 101  by designing experiments that test hypotheses, analyzing data with experimental uncertainty, and drawing valid conclusions from results. This course introduces concepts as needed in parallel with PHYS 101  to provide a complementary perspective on the same material. Letter grade with Pass/No Pass option. (Offered spring semester.) 1 credit
+   
+   PHYS 102 - GENERAL PHYSICS II
+   Prerequisites, PHYS 101, and MATH 111, or MATH 115. Corequisite, PHYS 102L  or previous credit for PHYS 102L.  Students explore the principles of electricity and magnetism and learn to understand the roles they play in our everyday experiences. Students develop broadly applicable critical thinking, approximation, and problem-solving skills. Topics include the study of electromagnetic fields and motions of charged objects using vector calculus, DC and AC circuit design, magnetic induction and wireless power, and basic properties of light and electromagnetic radiation. Letter grade with Pass/No Pass option. (Offered fall semester.) 3 credits
+   
+   PHYS 102L - GENERAL PHYSICS II LABORATORY
+   Prerequisites, PHYS 101. Corequisite, PHYS 102  or previous credit for PHYS 102.  Students solidify understanding of the physical concepts explored in PHYS 102  by designing experiments that test hypotheses, analyzing data with experimental uncertainty, and drawing valid conclusions from results. This course introduces concepts as needed in parallel with PHYS 102  to provide a complementary perspective on the same material. Letter grade with Pass/No Pass option. (Offered fall semester.) 1 credit
+   
+   sequence 2
+
+   
+   PHYS 107 - GENERAL PHYSICS FOR THE LIFE SCIENCES I, LECTURE AND LABORATORY
+   Prerequisite, MATH 110, or MATH 115. Students learn to apply the core principles of calculus-based physics to everyday experiences, from sports and biomechanics to chemistry and biology. Students develop broadly applicable critical thinking, approximation, and problem-solving skills. Topics include measurements and units, error propagation, vectors, calculus-based kinematics (linear and rotational) and dynamics (Newton’s laws of motion), linear and angular momentum, energy and energy transfer (work), conservation laws (energy, linear and angular momentum), rigid body statics and elasticity with applications to biomechanics, and fluid mechanics with applications to the circulatory system. This course includes a lecture and a required laboratory component held at different times. Letter grade with Pass/No Pass option. (Offered every semester.) 4 credits
+   
+   PHYS 108 - GENERAL PHYSICS FOR THE LIFE SCIENCES II, LECTURE AND LABORATORY
+   Prerequisite, PHYS 107, MATH 110  or MATH 115.   Corequisite, MATH 111  or MATH 115. Students explore the principles of electricity and magnetism and learn to appreciate its central role in everyday experiences and its applications to the life sciences. Students develop broadly applicable critical thinking, approximation, and problem-solving skills. Topics covered include static electric fields, static magnetic fields, electromagnetic forces, DC circuits, electromagnetic induction, electromagnetic waves and optics. This course includes a lecture and a required laboratory component held at different times. Letter grade with Pass/No Pass option. (Offered every semester.) 4 credits
+   
+ELECTIVES (3 CREDITS)
+
+   EENG 370 - TOPICS IN ELECTRICAL ENGINEERING
+   Advanced topics in Electrical Engineering. Letter grade with Pass/No Pass option. Repeatable for credit if the topic is different. (Offered as needed.) 3 credits
+   
+
+   EENG 398 - TOPICS IN ADVANCED ENGINEERING APPLICATIONS
+   This course provides a deep dive into very specific advanced engineering topics or technologies. Pass/No Pass. Repeatable for credit if the topic is different. (Offered as needed.) 1 credit
+   
+
+TOTAL CREDITS 30
+

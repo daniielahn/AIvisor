@@ -1,0 +1,79 @@
+2023-2024 Undergraduate Catalog
+
+COMPUTER ENGINEERING, MINOR
+
+The minor in Computer Engineering introduces students to the fundamental concepts of low-level and high-level hardware design, aswell as the real-time, embedded programming techniques needed to interface with that hardware. Students will learn electricity andelectronics, logic and circuit design, systems programming, hardware architectures, and how all of these things come together tosupport specific applications.
+
+Students pursuing a minor in Computer Engineering are required to:
+
+REQUIRED CORE (22 CREDITS)
+
+   EENG 200 - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, EENG 200L. Students begin their study of electronics and circuits by studying electricity (current, energy, voltage, power), electronic components (resistors, capacitors, diodes, etc), and fundamental laws for circuits. Students will gain hands on experience building circuits with solderless breadboards in a separate laboratory component. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   EENG 200L - LAB - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, EENG 200. Lab component of EENG 200. Letter grade with Pass/No Pass option. (Offered spring semester.) 1 credit
+   
+   CPSC 230 - COMPUTER SCIENCE I
+   Students are introduced to problem-solving methods and algorithm development through an interactive and easy-to-learn programming language, Python. (Offered every semester.) 3 credits
+
+   CENG 231 - SYSTEMS PROGRAMMING
+   Prerequisite, CPSC 230. Corequisite, CENG 231L. This course introduces students to concepts and techniques in systems programming with the programming languages C and C++ in a *nix environment. Students will gain insight into hardware-software interfaces through hands-on projects involving system calls, concurrency, network programming, memory mapping, and low-level mechanisms for inter-process communication. A laboratory component will allow students to implement conceptual ideas in code for enterprise, real-time, and embedded hardware targets. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   CENG 231L - LAB - SYSTEMS PROGRAMMING
+   Prerequisite, CPSC 230. Corequisite, CENG 231. Laboratory component of CENG 231. Letter grade with Pass/No Pass option. (Offered spring semester.) 1 credit
+   
+   CENG 330 - DIGITAL LOGIC DESIGN I
+   Prerequisite, CPSC 231 or CENG 231. Corequisite, CENG 330L. Students learn the fundamental principles and practice of digital logic. The course covers binary numbers and arithmetic. Students study Boolean algebra as a method of reasoning about sequential circuits including truth tables and Karnaugh maps, logic minimization, gates and flip-flops, sequential logic and combinatorial logic. The course requires one hour of supervised work in a laboratory in addition to three hours per week of lecture. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CENG 330L - LAB - DIGITAL LOGIC DESIGN I
+   Prerequisite, CENG 231 or CPSC 231. Corequisite, CENG 330. Laboratory component of CENG 330. Letter grade with Pass/No Pass option. (Offered every semester.) 1 credit
+
+   CENG 351 - COMPUTER ARCHITECTURE I
+   Prerequisite, CENG 330. Students learn the organization and structure of the major hardware components of computers to understand the mechanics of information transfer and control within a digital computer system and the fundamentals of logic design. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CENG 366 - DIGITAL LOGIC DESIGN II
+   Prerequisite, CENG 330. Corequisite, CENG 366L. This course introduces combinational and sequential logic circuits, including decoders, multiplexers, flip-flops, arithmetic circuits, and implementations of finite state machines using hardware design languages and FPGA boards. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+
+   CENG 366L - LAB - DIGITAL LOGIC DESIGN II
+   Prerequisite, CENG 330. Corequisite, CENG 366. Laboratory Component of CENG 366. Letter grade with Pass/No Pass option. (Offered as needed.) 1 credit
+
+ELECTIVES (6 CREDITS)
+
+   CENG 350 - EMBEDDED SYSTEMS
+   Prerequisite, CENG 231. An in-depth study of the high-level abstract modeling concepts and the lower-level fundamental programming aspects of real-time embedded systems development. The primary focus is in the design, development and validation of microprocessor-based real-time embedded systems. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 352 - COMPUTER ARCHITECTURE II
+   Prerequisite, CENG 351. Topics include the design and analysis of instruction set processors, memory management, multi-processors, and networks. Letter grade with Pass/No Pass option. (Offered as reading and conference only.) 3 credits
+
+   CENG 353 - WIRELESS COMMUNICATION
+   Prerequisite, CPSC 353. Wireless networks play an increasingly important role in the world of communications. This course provides an introduction to various current and next generation wireless networking technologies, and undertakes a detailed exploration of fundamental architectural and design principles used at all layers. Related protocols and their performance are studied using formal analytical tools and realistic simulations. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 353 - DATA COMMUNICATIONS AND COMPUTER NETWORKS
+   Prerequisite, CENG 231  or CPSC 231. Students explore the principles and techniques of data communications and give special emphasis to networks and distributed systems. The I.S.O. Reference Model for open systems interconnection will be investigated and the function and operation of each protocol layer analyzed in detail. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CENG 370 - TOPICS IN COMPUTER ENGINEERING
+   Advanced topics in computer engineering. Letter grade with Pass/No Pass option. May be repeated for credit. (Offered as needed.) 3 credits
+
+   CENG 380 - REAL-TIME OPERATING SYSTEMS
+   Prerequisites, CENG 350, CPSC 380. The theory and practice of developing real-time and embedded systems. The course provides an integrated approach to developing low-power systems with hardware, software, sensors, actuators, controllers and networking. Students will learn to develop a programmable embedded platform from scratch, interface a variety of sensors and actuators for interactive systems, build a gaming system, program an emulator to play retro games, control an autonomous robot and write an RTOS kernel from scratch. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 380 - OPERATING SYSTEMS
+   Prerequisite, CPSC 350. The course emphasizes the major principles of operating system design and the interrelationship between the operating system and the hardware. (Offered every year.) 3 credits
+   
+   CENG 381 - MODELING AND SIMULATION
+   Prerequisite, CENG 231. Fundamentals and techniques for designing and using simulation, modeling, and optimization algorithms with applications in system performance modeling, business infrastructure modeling, and distributed and parallel computing. An introduction to advanced complex systems models. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 382 - DIGITAL SIGNAL PROCESSING
+   Prerequisites, CENG 381  and MATH 116  or MATH 210. This course covers the techniques and tools of modern digital signal processing. Techniques for processing signals are examined including discrete-time linear systems, finite impulse response digital filters, infinite impulse response digital filters, fast Fourier transforms, response of LTI systems to statistical signals, digital filter design, and applications. Students will gain insight into evaluating DSP systems and justifying choices among alternative designs. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 390 - ROBOTICS
+   Prerequisites, CENG 231  or CPSC 231  and EENG 200. Students discover the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. In addition, elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection are presented. Students gain hands on experience through a series of assignments in which they build and test their own robot. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 465 - INTEGRATED CIRCUIT DESIGN I
+   Prerequisite, CENG 330. This course introduces students to the analysis and design of digital integrated circuits including combinational (static and dynamic) and sequential logic integrated circuits using CMOS technology. Students will learn transistor structure, circuit schematic, physical design, Design Rule Checking, Layout Versus Schematic checking, circuit extraction, and simulation using CAD tools. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+
+   CENG 466 - INTEGRATED CIRCUIT DESIGN II
+   Prerequisites, CENG 330, CENG 465. Recommended, PHYS 102. The course integrates theoretical and functional ideas from Digital Logic I with the physical electronics covered in Integrated Circuit Design I toward the design of real-world integrated circuits. The course also introduces the student to VLSI CAD tools for physical design.  Letter grade with Pass/No Pass option. (Offered as reading and conference only.) 3 credits
+
+TOTAL CREDITS 28

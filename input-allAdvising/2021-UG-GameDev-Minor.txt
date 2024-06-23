@@ -1,0 +1,84 @@
+2021-2022 Undergraduate Catalog [ARCHIVED CATALOG]
+
+GAME DEVELOPMENT PROGRAMMING, MINOR
+
+Students pursuing a minor in Game Development Programming are required to:
+
+LOWER-DIVISION REQUIREMENTS (15 CREDITS)
+
+   CPSC 230 - COMPUTER SCIENCE I
+   Students are introduced to problem-solving methods and algorithm development through an interactive and easy-to-learn programming language, Python. (Offered every semester.) 3 credits
+   
+
+   CPSC 236 - VISUAL PROGRAMMING
+   Prerequisite, CPSC 230. Students learn the essentials of visual programming language such as C# or Visual Basic. Emphasis is placed on using controls to build graphical user interfaces. (Offered every semester.) 3 credits
+   
+   CPSC 242 - INTRODUCTION TO THE GAME INDUSTRY
+   Students learn the history of electronic games and gaming platforms, the development cycle of electronic games, the roles and responsibilities of the members of a game production team, and the roles of interface design, mathematics, artificial intelligence and storytelling in game development. (Offered every semester.) 3 credits
+   
+
+   CPSC 244 - LEVEL DESIGN I
+   Prerequisites, CPSC 230, CPSC 242. Students learn to create interactive simulation software through the use and programming of a professional level editor with an emphasis on scripting techniques. (Offered spring semester.) 3 credits
+   
+   CPSC 245 - UNITY PROGRAMMING
+   Prerequisite, CPSC 236. Students will gain experience developing software for Unity, a popular cross-platform game engine. (Offered fall semester.) 3 credits
+   
+UPPER-DIVISION REQUIREMENTS (6 CREDITS)
+
+   CPSC 340 - GAME DEVELOPMENT
+   Prerequisites, CPSC 244, and CPSC 231, or CPSC 236. Game Development covers programming techniques for writing a broad range of computer video games including 2D arcade style, isometric, 3D and networked games. Students will learn to program with a professional game development engine. (Offered fall semester.) 3 credits
+   
+   CPSC 440 - COLLABORATIVE GAME DEVELOPMENT
+   Prerequisite, CPSC 340. This is a capstone project course in which students design and develop games in collaborative projects. Working with faculty and visiting industry experts, students propose a concept for a computer game or applied interactive simulation, developing that concept over the course of the semester through several stages of specification and prototyping. Final prototypes are entered in a competition at the end of the course whose jury may include representatives from game and simulation development companies. (Offered spring semester.) 3 credits
+   
+ELECTIVES (6 CREDITS)
+
+two of the following, at least one of which must be upper-division
+
+   
+   AVE 202 - 3D COMPUTER GRAPHICS I
+   Prerequisites, AVE 120  and animation and visual effects major or visual effects or animation and visual effects or digital arts cluster. Some sections may be open to non-majors. Students must earn a B- or better in AVE 202 before continuing with coursework in the Animation and Visual Effects major. A basic overview of the tools available in Autodesk’s Maya software package for the creation of 3D digital animation. Topics covered include modeling, character rigging, animation, shading, lighting, rendering and tracking. Letter grade. Fee: $75. (Offered every semester.) 3 credits
+   
+   AVE 206 - MECHANICS OF MOTION
+   Prerequisites, AVE 109  and animation and visual effects major or animation and visual effects or digital arts cluster. Using traditional methods, students will be introduced to the fundamental mechanics of motion, including paths of action, forces, timing, patterns, anticipation, action and counteraction, balance, weight, squash and stretch, primary and secondary action, and overlap. Students will use traditional media including animation drawing boards and “pencil test” software to create frame-by-frame animated motion to learn how to visualize and then represent the action of forms and shapes in motion, and create the illusion of such actions as acceleration, deceleration, collision, anticipation, balance, momentum, and intent. Letter grade. Fee: $300. (Offered spring semester.) 3 credits
+   
+   AVE 242 - 2D COMPUTER GRAPHICS
+   Prerequisite, animation and visual effects major, or game development programming minor, or animation and visual effects, or digital arts cluster. Students are taught the techniques and use of tools for producing art work, both still and moving, and learn the basic concepts of applied 2D graphics and how to apply these concepts in the production of 2D animation within the digital realm. They will also learn techniques that will later be used in 3D Graphics courses. Some sections of this course may be restricted to consent of instructor. Fee: $75. (Offered spring semester.) 3 credits
+   
+
+   CPSC 246 - THE UNREAL GAME ENGINE
+   Prerequisite, CPSC 230. Students will gain experience developing games for the Unreal game engine. (Offered spring semester.) 3 credits
+   
+   AVE 249 - STORYTELLING IN ANIMATION AND VISUAL EFFECTS
+   Prerequisites, AVE 247  and animation and visual effects major or animation and visual effects or digital arts cluster. Animation and Visual Effects majors must pass AVE 249 with a grade of B- or better before continuing on with coursework within the major. An introduction to the principles of story and how stories are created, refined, and presented in the animation and visual effects industry. Students learn about plot, structure, characters, setting, conflict, and resolution, as well as how to tell stories through beat outlines, treatments, scripts, storyboards, and story reels as used in the world of animation and visual effects. Letter grade. (Offered spring semester.) 3 credits
+   
+   CPSC 285 - SOCIAL AND ETHICAL ISSUES IN COMPUTING
+   This course considers a range of ethical and social issues related to the effects of computers on how we live, focusing on broad social issues as well as individual responsibilities. Privacy and intellectual property (e.g. P2P downloading), software licenses, software reliability, and risks. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+
+   AVE 302 - 3D COMPUTER GRAPHICS II
+   Prerequisites, AVE 202  with B- or better, AVE 249  with B- or better and animation and visual effects major or animation and visual effects or digital arts cluster. This course begins a detailed overview of the production process used in creating digital character animation. Using the Autodesk Maya software package, students will create an animated project from initial design to final character animation. Areas covered by this class include character modeling, advanced character rigging, character animation techniques, facial animation and soundtrack synchronization. Letter grade. Fee: $75. (Offered spring semester.) 3 credits
+   
+   ENG 328 - WRITING FOR VIDEO GAMES
+   Prerequisites, ENG 204  and English or screenwriting or creative writing major or creative and cultural industries or English or game development programming minor. This course will focus intensively on the possibilities of narrative in an interactive, choice-based environment. It will study how narrative theory (narratology) can be remediated by game studies (ludology) in order to create interactive narratives that bridge the best of both worlds. Students engaged in theory and practice, working collaboratively to design and compose narrative games. (Offered fall semester.) 3 credits
+   
+   AVE 339 - DIGITAL ILLUSTRATION
+   Prerequisites, AVE 109, AVE 120, AVE 209  and animation and visual effects major or animation and visual effects or digital arts cluster. Students learn the art and technique of matte painting for motion pictures in the digital environment using Adobe Photoshop. Students will learn visual effects secrets used at such leading-edge studios as Industrial Light + Magic. Letter grade. Fee: $75. (Offered fall semester.) 3 credits
+   
+   CPSC 344 - LEVEL DESIGN II
+   Prerequisite, CPSC 244. Students learn to create interactive simulation software through the use and programming of professional game design software with a focus on 3-D rendering and advanced AI Scripting. (Offered as needed.) 3 credits
+   
+   MGSC 346 - PRODUCTION AND OPERATIONS MANAGEMENT
+   Prerequisite, MATH 203, or MGSC 209. Study of the production/operations management function. Topics include operations strategy, forecasting, inventory control, scheduling, queuing theory, project management, facilities layout, and quality assurance. The focus of this class will be on problem solving. Computer software will be used extensively. (Offered every semester.) 3 credits
+   
+   CPSC 353 - DATA COMMUNICATIONS AND COMPUTER NETWORKS
+   Prerequisite, CENG 231  or CPSC 231. Students explore the principles and techniques of data communications and give special emphasis to networks and distributed systems. The I.S.O. Reference Model for open systems interconnection will be investigated and the function and operation of each protocol layer analyzed in detail. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CPSC 360 - COMPUTER GRAPHICS
+   Prerequisite, CPSC 350. The fundamental concepts of graphics software, hardware, and standards are examined. The course gives special emphasis to three-dimensional graphics and provides an introduction to graphical user interfaces. (Offered interterm, alternate years.) 3 credits
+   
+   CPSC 390 - ARTIFICIAL INTELLIGENCE
+   Prerequisite, CPSC 350. Students study the tools, techniques, and applications of artificial intelligence. Students will be introduced to the programming techniques utilized in artificial intelligence applications. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+TOTAL CREDITS 27
+

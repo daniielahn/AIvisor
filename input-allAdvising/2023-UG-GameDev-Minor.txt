@@ -1,0 +1,67 @@
+2023-2024 Undergraduate Catalog
+
+GAME DEVELOPMENT PROGRAMMING, MINOR
+
+Students pursuing a minor in Game Development Programming are required to:
+
+LOWER-DIVISION REQUIREMENTS (15 CREDITS)
+
+   CPSC 228 - INTRODUCTION TO GAME PROGRAMMING
+   Students are introduced to the basics of computer programming and game creation using one of the most popular programming languages in game development, C#. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   CPSC 236 - OBJECT-ORIENTED PROGRAMMING IN C#
+   Prerequisite, CPSC 228 or CPSC 230. Students learn object-oriented programming using the C# programming language. Students are also introduced to Unity, a C# technology and the most widely-used game development platform, creating a series of games throughout the course. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CPSC 242 - INTRODUCTION TO THE GAME INDUSTRY
+   Students learn the history of electronic games and gaming platforms, the development cycle of electronic games, the roles and responsibilities of the members of a game production team, and the roles of interface design, mathematics, artificial intelligence and storytelling in game development. (Offered every semester.) 3 credits
+   
+   CPSC 244 - LEVEL DESIGN I
+   Prerequisites, CPSC 228 or CPSC 231. Students learn to create interactive simulation software through the use and programming of a professional level editor with an emphasis on scripting techniques. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+
+   CPSC 245 - UNITY PROGRAMMING
+   Prerequisite, CPSC 236. Students will gain experience developing software for Unity, a popular cross-platform game engine. (Offered fall semester.) 3 credits
+   
+   CPSC 246 - THE UNREAL GAME ENGINE
+   Prerequisite, CPSC 230. Students will gain experience developing games for the Unreal game engine. (Offered spring semester.) 3 credits
+   
+UPPER-DIVISION REQUIREMENTS (9 CREDITS)
+
+   CPSC 339 - GAME PLANNING AND DESIGN
+   Prerequisites, CPSC 236, CPSC244 Students will explore the full design lifecycle for games, including formal methods and best practices for planning and project management. Emphasis will be placed on mastering key concepts from the preproduction process. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   CPSC 340 - GAME DEVELOPMENT
+   Prerequisites, CPSC 244, and CPSC 231, or CPSC 236. Game Development covers programming techniques for writing a broad range of computer video games including 2D arcade style, isometric, 3D and networked games. Students will learn to program with a professional game development engine. (Offered fall semester.) 3 credits
+   
+   CPSC 440 - COLLABORATIVE GAME DEVELOPMENT
+   Prerequisite, CPSC 340. This is a capstone project course in which students design and develop games in collaborative projects. Working with faculty and visiting industry experts, students propose a concept for a computer game or applied interactive simulation, developing that concept over the course of the semester through several stages of specification and prototyping. Final prototypes are entered in a competition at the end of the course whose jury may include representatives from game and simulation development companies. (Offered spring semester.) 3 credits
+   
+ELECTIVES (3 CREDITS)
+
+One of the following
+
+   ENG 328 - WRITING FOR VIDEO GAMES
+   Prerequisites, ENG 204 and English major or Creative Writing major or English minor or Creative and Cultural Industries minor or Animation and Visual Effects major or Film and Media Studies major or Screenwriting major or Writing for Film and Television major or VR and AR minor or Game Development Programming minor or Game Development Themed inquiry. This course will focus intensively on the possibilities of narrative in an interactive, choice-based environment. It will study how narrative theory (narratology) can be remediated by game studies (ludology) in order to create interactive narratives that bridge the best of both worlds. Students engaged in theory and practice, working collaboratively to design and compose narrative games. Letter grade with Pass/No Pass option. (Offered fall semester.) 3 credits
+   
+   CPSC 344 - LEVEL DESIGN II
+   Prerequisite, CPSC 244. Students learn to create interactive simulation software through the use and programming of professional game design software with a focus on 3-D rendering and advanced AI Scripting. (Offered as needed.) 3 credits
+   
+   MGSC 346 - PRODUCTION AND OPERATIONS MANAGEMENT
+   Prerequisite, MATH 203 or MGSC 209 with a minimum grade of C-. Study of the production/operations management function. Topics include operations strategy, forecasting, inventory control, scheduling, queuing theory, project management, facilities layout, and quality assurance. The focus of this class will be on problem solving. Computer software will be used extensively. Letter grade. (Offered every semester.) 3 credits
+
+   CPSC 349 - HUMAN FACTORS
+   Prerequisite, CENG 231  or CPSC 231. Students study the foundations of human factors, with emphasis on user interface design and user experience. Topics include engineering psychology, design constraints, memory models, visual and auditory processing, and human-centered design. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   CPSC 353 - DATA COMMUNICATIONS AND COMPUTER NETWORKS
+   Prerequisite, CENG 231  or CPSC 231. Students explore the principles and techniques of data communications and give special emphasis to networks and distributed systems. The I.S.O. Reference Model for open systems interconnection will be investigated and the function and operation of each protocol layer analyzed in detail. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CPSC 355 - HUMAN COMPUTER INTERACTION
+   Prerequisite, CPSC 349. Students study the foundations of human-interaction, with emphasis on user-centered design methodologies. Topics such as usability, human factors, user studies, and multi-model interfaces will be explored, and the theory put into practice through programming projects that develop graphical user interfaces and applications for the Android or iPhone/iPad. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   CPSC 360 - COMPUTER GRAPHICS
+   Prerequisite, CPSC 350. The fundamental concepts of graphics software, hardware, and standards are examined. The course gives special emphasis to three-dimensional graphics and provides an introduction to graphical user interfaces. (Offered interterm, alternate years.) 3 credits
+   
+   CPSC 390 - ARTIFICIAL INTELLIGENCE
+   Prerequisite, CPSC 350. Students study the tools, techniques, and applications of artificial intelligence. Students will be introduced to the programming techniques utilized in artificial intelligence applications. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+TOTAL CREDITS 27
+

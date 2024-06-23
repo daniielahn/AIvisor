@@ -1,0 +1,161 @@
+2020-2021 Undergraduate Catalog [ARCHIVED CATALOG]
+
+COMPUTER ENGINEERING, B.S.
+
+Students pursuing the B.S. in Computer Engineering are required to:
+
+Majors required to enroll in FFC 100 - First-Year Foundations  to satisfy their General Education requirement must enroll in the
+topic “Grand Challenges in Science and Technology.”
+
+GRAND CHALLENGES INITIATIVE (3 CREDITS)
+
+   SCI 150 - GRAND CHALLENGES IN SCIENCE I
+   This research seminar is a continuation of the Grand Challenges FFC. It is designed to provide a mentored experience for teams as they pursue possible solutions to their grand challenges. Faculty serving as team mentors will use evidence-based approaches to improve students’ critical thinking, problem-solving and communication skills. Faculty are joined by a number of external experts who provide students with additional insights into their challenges, introduce them to a diversity of careers in science, and serve as the foundation of a professional network. In this phase, teams are encouraged to grow, evolve, and even recruit new members across campus, as it becomes clearer what skills are needed to advance towards their goals. Letter grade. (Offered every semester.) 1 credit
+   
+
+   SCI 200 - GRAND CHALLENGES IN SCIENCE II
+   This seminar is a continuation of the Grand Challenges in Science series. It is designed to provide a mentored experience for teams as they pursue possible solutions to their grand challenges. Faculty serving as team mentors will use evidence-based approaches to improve students’ critical thinking, problem-solving and communication skills. Faculty are joined by a number of external experts who provide students with additional insights into their challenges, introduce them to a diversity of careers in science, and serve as the foundation of a professional network. In this phase, teams are encouraged to grow, evolve, and even recruit new members across campus, as it becomes clearer what skills are needed to advance towards their goals. (Offered every semester.) 1 credit
+   
+
+   SCI 250 - GRAND CHALLENGES IN SCIENCE III
+   This seminar is a continuation of the Grand Challenges in Science series. It is designed to provide a mentored experience for teams as they pursue possible solutions to their grand challenges. Faculty serving as team mentors will use evidence-based approaches to improve students’ critical thinking, problem-solving and communication skills. Faculty are joined by a number of external experts who provide students with additional insights into their challenges, introduce them to a diversity of careers in science, and serve as the foundation of a professional network. In this phase, teams are encouraged to grow, evolve, and even recruit new members across campus, as it becomes clearer what skills are needed to advance towards their goals. (Offered every semester.) 1 credit
+   
+
+LOWER-DIVISION CORE REQUIREMENTS (39-40 CREDITS)
+
+   ENGR 101 - FOUNDATIONS OF DESIGN AND FABRICATION
+   Students gain first-hand experience with design and fabrication as a foundation of engineering. Using technologies such as additive manufacturing (eg. 3D printing), embedded systems and software, and electronics, students will work together to develop innovative solutions to interesting problems. Letter grade. (Offered every semester.) 3 credits
+   
+
+   PHYS 101 - GENERAL PHYSICS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, PHYS 101L  or previous credit for PHYS 101L. Explore the core principles of physics. Learn how to apply the laws of motion to everyday situations, ranging from dance to chemistry. Develop broadly applicable critical thinking, abstraction, approximation, and problem-solving skills. Topics include calculus-based kinematics, symmetry, conserved quantities, interactions, rates of conserved-quantity exchange, special relativity, and the composition of matter. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   PHYS 101L - LAB-GENERAL PHYSICS I
+   Prerequisite, MATH 110, or MATH 115. Corequisite, PHYS 101. This is the lab component for PHYS 101. Students study mechanics, wave motion, and heat. (Offered spring semester.) 1 credit
+   
+   PHYS 102 - GENERAL PHYSICS II
+   Prerequisites, PHYS 101, and MATH 111, or MATH 115. Corequisite, PHYS 102L. Students study electricity, magnetism, light, introduction to atomic structure. (Offered fall semester.) 3 credits
+   
+   PHYS 102L - LAB-GENERAL PHYSICS II
+   Prerequisites, PHYS 101. Corequisite, PHYS 102. This is the lab component for PHYS 102. (Offered fall semester.) 1 credit
+   
+   PHYS 201 - GENERAL PHYSICS III
+   Prerequisite, PHYS 102. Students study thermodynamics and waves, including an exploration into the fields of physics that stem from the study of waves, such as quantum mechanics, atomic physics and nuclear physics, where here is no longer a distinction between particles and waves. (Offered spring semester.) 3 credits
+   
+   EENG 200 - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, EENG 200L. Students begin their study of electronics and circuits by studying electricity (current, energy, voltage, power), electronic components (resistors, capacitors, diodes, etc), and fundamental laws for circuits. Students will gain hands on experience building circuits with solderless breadboards in a separate laboratory component. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   EENG 200L - LAB - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110. Corequisite, EENG 200. Lab component of EENG 200. Letter grade with Pass/No Pass option. (Offered spring semester.) 1 credit
+   
+   MATH 215 - INTRODUCTION TO LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS
+   Prerequisite, MATH 111  or MATH 116. Introduction to the solutions of ordinary differential equations and their connection to linear algebra. Topics include matrix algebra, systems of linear equations, vector spaces, inner product spaces, linear transformations, eigenvalues and eigenvectors, differential equations, systems of linear differential equations, and the Laplace transform. (Offered fall semester.) 3 credits
+   
+   CPSC 230 - COMPUTER SCIENCE I
+   Students are introduced to problem-solving methods and algorithm development through an interactive and easy-to-learn programming language, Python. (Offered every semester.) 3 credits
+   
+
+   CENG 231 - SYSTEMS PROGRAMMING
+   Prerequisites, CPSC 230, EENG 200. Corequisite, CENG 231L. This course introduces students to concepts and techniques in systems programming with the programming languages C and C++ in a *nix environment. Students will gain insight into hardware-software interfaces through hands-on projects involving system calls, concurrency, network programming, memory mapping, and low-level mechanisms for inter-process communication. A laboratory component will allow students to implement conceptual ideas in code for enterprise, real-time, and embedded hardware targets. (Offered fall semester.) 3 credits
+   
+   CENG 231L - LAB - SYSTEMS PROGRAMMING
+   Prerequisites, CPSC 230, EENG 200. Corequisite, CENG 231. Laboratory component of CENG 231. (Offered fall semester.) 1 credit
+   
+   MATH 250 - DISCRETE MATHEMATICS I
+   Prerequisite, MATH 101  or equivalent. This course provides the student with an introduction to the fundamental mathematics of discrete phenomena and computation. This is a key course in the CPSC curriculum as it provides the theoretical background needed for many upper-division courses including Data Structures (combinatorics, formal languages), Logic Design (Boolean algebras, number representation) and Integrated Circuit Design (automata theory, finite state minimization, graph layout). Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   MATH 110 - SINGLE VARIABLE CALCULUS I
+   Prerequisite, MATH 101  or equivalent. Students study single variable functions, limits and continuity, differentiation, applications of derivatives (approximations, curve plotting, optimization), antiderivatives, the definite integral, and applications of integration. Students who take MATH 109  or MATH 110 may not also receive credit for MATH 115. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   MATH 111 - SINGLE VARIABLE CALCULUS II
+   Prerequisite, MATH 110  or MATH 115. Further techniques and applications of integration, transcendental functions, exponential models, logistic equations, infinite and power series, Taylor’s theorem, parametric equations, and polar coordinates. Students who take MATH 111 or MATH 210  may not also receive credit for MATH 116. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   MATH 210 - MULTIVARIABLE CALCULUS
+   Prerequisite, MATH 111. Students learn the calculus of functions of two or more variables, vector-valued functions, multiple integrals, and integration in vector fields. Students who take MATH 111  or MATH 210 may not also receive credit for MATH 116. Letter grade with Pass/No Pass option. (Offered fall semester.) 3 credits
+   
+   MATH 115 - ACCELERATED CALCULUS PART I: DIFFERENTIATION AND INTEGRATION
+   Prerequisite, MATH 101  or equivalent. This course is an intensive introduction to the calculus of elementary functions and its applications to science. Students study fundamental concepts of limits, continuity, and derivatives, and explore the derivatives and integrals of polynomials, rational functions, exponentials, logarithms, and trigonometric functions, followed by the chain rule, implicit differentiation, logarithmic differentiation, applications of differentiation, optimization, definite integrals, Riemann sums and the fundamental theorem of Calculus, applications of integration, integration techniques and methods, sequences and series, introduction to differential equations, power series. Students who take MATH 109  or MATH 110  may not also receive credit for MATH 115. Letter grade. (Offered fall semester.) 4 credits
+   
+   MATH 116 - ACCELERATED CALCULUS PART II: SERIES, DIFFERENTIAL EQUATIONS AND MULTIVARIABLE CALCULUS
+   Prerequisite, MATH 115. This course is the second part of an intensive introduction to the calculus of elementary functions and its applications to science. Students will explore Taylor Series, model exponential growth, sinusoidal oscillation, and logistic convergence through simple differential equations, continue with calculus of functions of two or more variables and of vector-valued functions. Optimization of functions of several variables, Lagrange multipliers, multiple integrals and integration of vector fields, divergence and curl, line and surface integration, Green, Stokes, and Divergence Theorems. This is the second part of a two-semester accelerated Calculus course. Students who take MATH 111  or MATH 210  may not also receive credit for MATH 116. Letter grade. (Offered spring semester.) 4 credits
+   
+COLLOQUIUM REQUIREMENT (4 CREDITS)
+
+Students must complete four 1-credit sections of CENG 298 - Computer Engineering Colloquium.
+UPPER-DIVISION REQUIREMENTS (24 CREDITS)
+
+   EENG 300 - ELECTRONICS AND CIRCUITS II
+   Prerequisite, EENG 200. Corequisite, EENG 300L. Students continue their study of circuits, moving into digital and mixed signal circuit design. Topics include transistors, diodes, AC and DC analysis, analyzing circuit response, and integrated circuits. Students will gain hands on experience in the lab by prototyping circuits, simulating complex designs, and designing and analyzing simple PCB circuits. Letter grade with Pass/No Pass option. (Offered fall semester.) 3 credits
+   
+   EENG 300L - LAB - ELECTRONICS AND CIRCUITS II
+   Prerequisite, EENG 200L. Corequisite, EENG 300 . Lab component of EENG 300 . Letter grade with Pass/No Pass option. (Offered fall semester.) 1 credit
+   
+   CPSC 330 - DIGITAL LOGIC DESIGN I
+   (Same as PHYS 330.) Prerequisite, MATH 250. Corequisite, CPSC 330L. Students learn the fundamental principles and practice of digital logic. The course covers binary numbers and arithmetic. Students study Boolean algebra as a method of reasoning about sequential circuits including truth tables and Karnaugh maps, logic minimization, gates and flipflops, sequential logic, and combinatorial logic. The course requires one hour of supervised work in a laboratory in addition to three hours per week of lecture. (Offered spring semester.) 3 credits
+   
+   CPSC 330L - LAB - DIGITAL LOGIC DESIGN I
+   (Same as PHYS 330L.) Prerequisite, MATH 250 . Corequisite, CPSC 330. Laboratory component of CPSC 330. (Offered spring semester.) 1 credit
+   
+   CPSC 350 - DATA STRUCTURES AND ALGORITHMS
+   Prerequisite, CPSC 231  or CENG 231. Students study core data structures and algorithms, such as arrays, stacks, lists, queues, trees, hash tables, graphs; search and sort. Students engage on projects that involve individually chosen advanced data structures and algorithms. The focus is on applications of data structures and algorithms, utilization of existing practical data sets, and performance trade-offs. Letter grade. (Offered every semester.) 3 credits
+   
+   CPSC 351 - COMPUTER ARCHITECTURE I
+   Prerequisite, CPSC 330. Students learn the organization and structure of the major hardware components of computers to understand the mechanics of information transfer and control within a digital computer system and the fundamentals of logic design. (Offered fall semester.) 3 credits
+   
+   CPSC 366 - DIGITAL LOGIC DESIGN II
+   Prerequisite, CPSC 330. Corequisite, CPSC 366L. This course introduces combinational and sequential logic circuits, including decoders, multiplexers, flip-flops, arithmetic circuits, and implementations of finite state machines using hardware design languages and FPGA boards. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 366L - LAB - DIGITAL LOGIC DESIGN II
+   Prerequisite, CPSC 330. Corequisite, CPSC 366. Laboratory Component of CPSC 366. Letter grade with Pass/No Pass option. (Offered as needed.) 1 credit
+   
+   CPSC 380 - OPERATING SYSTEMS
+   Prerequisite, CPSC 350. The course emphasizes the major principles of operating system design and the interrelationship between the operating system and the hardware. (Offered every year.) 3 credits
+   
+   CPSC 465 - INTEGRATED CIRCUIT DESIGN I
+   Prerequisite, CPSC 366. Recommended, PHYS 102. This course introduces the student to circuit analysis, including transient and sinusoidal steadystate analysis, complex frequency and Bode plots. (Offered as a reading and conference only.) 3 credits
+   
+ELECTIVES (9 CREDITS)
+
+Students, in consultation with and approval of the engineering advising committee, will design individual elective programs to
+suit their academic goals. Electives may be satisfied by any of the following courses.
+
+   
+   CENG 350 - EMBEDDED SYSTEMS
+   Prerequisite, CENG 231. An in-depth study of the high-level abstract modeling concepts and the lower-level fundamental programming aspects of real-time embedded systems development. The primary focus is in the design, development and validation of microprocessor-based real-time embedded systems. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 352 - COMPUTER ARCHITECTURE II
+   Prerequisite, CPSC 351. Topics include the design and analysis of instruction set processors, memory management, multi-processors, and networks. (Offered as a reading and conference only.) 3 credits
+   
+   CENG 353 - WIRELESS COMMUNICATION
+   Prerequisite, CPSC 353. Wireless networks play an increasingly important role in the world of communications. This course provides an introduction to various current and next generation wireless networking technologies, and undertakes a detailed exploration of fundamental architectural and design principles used at all layers. Related protocols and their performance are studied using formal analytical tools and realistic simulations. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 353 - DATA COMMUNICATIONS AND COMPUTER NETWORKS
+   Prerequisite, CPSC 231. Students explore the principles and techniques of data communications and give special emphasis to networks and distributed systems. The I.S.O. Reference Model for open systems interconnection will be investigated and the function and operation of each protocol layer analyzed in detail. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CENG 370 - TOPICS IN COMPUTER ENGINEERING
+   Advanced topics in computer engineering. Letter grade with Pass/No Pass option. May be repeated for credit. (Offered as needed.) 3 credits
+   
+
+   CENG 380 - REAL-TIME OPERATING SYSTEMS
+   Prerequisites, CENG 350, CPSC 380. The theory and practice of developing real-time and embedded systems. The course provides an integrated approach to developing low-power systems with hardware, software, sensors, actuators, controllers and networking. Students will learn to develop a programmable embedded platform from scratch, interface a variety of sensors and actuators for interactive systems, build a gaming system, program an emulator to play retro games, control an autonomous robot and write an RTOS kernel from scratch. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 381 - MODELING AND SIMULATION
+   Prerequisite, CENG 231. Fundamentals and techniques for designing and using simulation, modeling, and optimization algorithms with applications in system performance modeling, business infrastructure modeling, and distributed and parallel computing. An introduction to advanced complex systems models. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 382 - DIGITAL SIGNAL PROCESSING
+   Prerequisites, CENG 381, MATH 210. This course covers the techniques and tools of modern digital signal processing. Techniques for processing signals are examined including discrete-time linear systems, finite impulse response digital filters, infinite impulse response digital filters, fast Fourier transforms, response of LTI systems to statistical signals, digital filter design, and applications. Students will gain insight into evaluating DSP systems and justifying choices among alternative designs. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CENG 390 - ROBOTICS
+   Prerequisites, CENG 231  or CPSC 231  and EENG 200. Students discover the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. In addition, elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection are presented. Students gain hands on experience through a series of assignments in which they build and test their own robot. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 453 - NETWORK IMPLEMENTATION AND SECURITY
+   Prerequisite, CPSC 353. Students explore the principles and techniques for implementing TCP/IP based networks using Microsoft Windows and Linux servers and clients, including the skills to configure, customize, optimize, troubleshoot, and integrate networks. (Offered as needed.) 3 credits
+   
+   CPSC 454 - FUNDAMENTALS OF CYBERSECURITY
+   Prerequisite, CPSC 350. Students are exposed to the world of cybersecurity. Emphasis is placed on understanding, recognizing, and patching security exploits. Students will use standard industry tools and techniques to gain hands-on experience in this rapidly-growing field. Note that students majoring in computer science, computer engineering, software engineering, or data analytics may not use CPSC 454 as an elective in the major if they are also minoring in cybersecurity. Letter grade with Pass/No Pass option. (Offered every year.) 3 credits
+   
+   CPSC 466 - INTEGRATED CIRCUIT DESIGN II
+   Prerequisites, CPSC 330, CPSC 465. Recommended, PHYS 102. The course integrates theoretical and functional ideas from Digital Logic II with the physical electronics covered in Integrated Circuit Design I toward the design of realworld integrated circuits. The course also introduces the student to VLSI CAD tools for physical design. (Offered as a reading and conference only.) 3 credits
+   
+TOTAL CREDITS 79-80
+

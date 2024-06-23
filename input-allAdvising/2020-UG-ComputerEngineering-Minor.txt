@@ -1,0 +1,61 @@
+2020-2021 Undergraduate Catalog [ARCHIVED CATALOG]
+
+COMPUTER ENGINEERING, MINOR
+
+The minor in computer engineering introduces students to the fundamental concepts of low-level and high-level hardware design, as
+well as the real-time, embedded programming techniques needed to interface with that hardware. Students will learn electricity and
+electronics, logic and circuit design, systems programming, hardware architectures, and how all of these things come together to
+support specific applications.
+
+REQUIRED CORE (22 CREDITS)
+
+   EENG 200 - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110  or MATH 115. Corequisite, EENG 200L. Students begin their study of electronics and circuits by studying electricity (current, energy, voltage, power), electronic components (resistors, capacitors, diodes, etc), and fundamental laws for circuits. Students will gain hands on experience building circuits with solderless breadboards in a separate laboratory component. Letter grade with Pass/No Pass option. (Offered spring semester.) 3 credits
+   
+   EENG 200L - LAB - ELECTRONICS AND CIRCUITS I
+   Prerequisite, MATH 110. Corequisite, EENG 200. Lab component of EENG 200. Letter grade with Pass/No Pass option. (Offered spring semester.) 1 credit
+   
+   CPSC 230 - COMPUTER SCIENCE I
+   Students are introduced to problem-solving methods and algorithm development through an interactive and easy-to-learn programming language, Python. (Offered every semester.) 3 credits
+   
+
+   CENG 231 - SYSTEMS PROGRAMMING
+   Prerequisites, CPSC 230, EENG 200. Corequisite, CENG 231L. This course introduces students to concepts and techniques in systems programming with the programming languages C and C++ in a *nix environment. Students will gain insight into hardware-software interfaces through hands-on projects involving system calls, concurrency, network programming, memory mapping, and low-level mechanisms for inter-process communication. A laboratory component will allow students to implement conceptual ideas in code for enterprise, real-time, and embedded hardware targets. (Offered fall semester.) 3 credits
+   
+   CENG 231L - LAB - SYSTEMS PROGRAMMING
+   Prerequisites, CPSC 230, EENG 200. Corequisite, CENG 231. Laboratory component of CENG 231. (Offered fall semester.) 1 credit
+   
+   CPSC 330 - DIGITAL LOGIC DESIGN I
+   (Same as PHYS 330.) Prerequisite, MATH 250. Corequisite, CPSC 330L. Students learn the fundamental principles and practice of digital logic. The course covers binary numbers and arithmetic. Students study Boolean algebra as a method of reasoning about sequential circuits including truth tables and Karnaugh maps, logic minimization, gates and flipflops, sequential logic, and combinatorial logic. The course requires one hour of supervised work in a laboratory in addition to three hours per week of lecture. (Offered spring semester.) 3 credits
+   
+   CPSC 330L - LAB - DIGITAL LOGIC DESIGN I
+   (Same as PHYS 330L.) Prerequisite, MATH 250 . Corequisite, CPSC 330. Laboratory component of CPSC 330. (Offered spring semester.) 1 credit
+   
+   CPSC 351 - COMPUTER ARCHITECTURE I
+   Prerequisite, CPSC 330. Students learn the organization and structure of the major hardware components of computers to understand the mechanics of information transfer and control within a digital computer system and the fundamentals of logic design. (Offered fall semester.) 3 credits
+   
+   CPSC 366 - DIGITAL LOGIC DESIGN II
+   Prerequisite, CPSC 330. Corequisite, CPSC 366L. This course introduces combinational and sequential logic circuits, including decoders, multiplexers, flip-flops, arithmetic circuits, and implementations of finite state machines using hardware design languages and FPGA boards. Letter grade with Pass/No Pass option. (Offered as needed.) 3 credits
+   
+   CPSC 366L - LAB - DIGITAL LOGIC DESIGN II
+   Prerequisite, CPSC 330. Corequisite, CPSC 366. Laboratory Component of CPSC 366. Letter grade with Pass/No Pass option. (Offered as needed.) 1 credit
+   
+ELECTIVES (6 CREDITS)
+
+   CPSC 352 - COMPUTER ARCHITECTURE II
+   Prerequisite, CPSC 351. Topics include the design and analysis of instruction set processors, memory management, multi-processors, and networks. (Offered as a reading and conference only.) 3 credits
+   
+   CPSC 353 - DATA COMMUNICATIONS AND COMPUTER NETWORKS
+   Prerequisite, CPSC 231. Students explore the principles and techniques of data communications and give special emphasis to networks and distributed systems. The I.S.O. Reference Model for open systems interconnection will be investigated and the function and operation of each protocol layer analyzed in detail. Letter grade with Pass/No Pass option. (Offered every semester.) 3 credits
+   
+   CPSC 380 - OPERATING SYSTEMS
+   Prerequisite, CPSC 350. The course emphasizes the major principles of operating system design and the interrelationship between the operating system and the hardware. (Offered every year.) 3 credits
+   
+   CPSC 465 - INTEGRATED CIRCUIT DESIGN I
+   Prerequisite, CPSC 366. Recommended, PHYS 102. This course introduces the student to circuit analysis, including transient and sinusoidal steadystate analysis, complex frequency and Bode plots. (Offered as a reading and conference only.) 3 credits
+   
+   CPSC 466 - INTEGRATED CIRCUIT DESIGN II
+   Prerequisites, CPSC 330, CPSC 465. Recommended, PHYS 102. The course integrates theoretical and functional ideas from Digital Logic II with the physical electronics covered in Integrated Circuit Design I toward the design of realworld integrated circuits. The course also introduces the student to VLSI CAD tools for physical design. (Offered as a reading and conference only.) 3 credits
+   
+TOTAL CREDITS 28
+

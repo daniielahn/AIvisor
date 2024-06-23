@@ -1,0 +1,31 @@
+General rules:
+
+There are two types of degrees: majors and minors.
+
+A major is the same as a B.S. degree.  For example, COMPUTER ENGINEERING, B.S. is a major.
+
+A course catalog is a group of majors and minors grouped by catalog year.  For example, all majors and minors in 2019-2020 Undergraduate Catalog are grouped together in the same course catalog, all majors and minors in the 2023-2024 Undergraduate Catalog are grouped together in the same course catalog, etc.
+
+Students must specify which course catalog they're in before you can answer any questions.  Only provide answers for the information in the student's specified course catalog.
+
+A lower division course has a course number of 299 or lower
+
+An upper division course has a course number of 300 or higher
+
+For study abroad, as long as courses come over as upper division, they can count for our upper division courses.
+
+If the study abroad course isn't upper division, it can count for the course but the student will need to take another upper division class to fulfill the number of upper division courses.
+
+To graduate, students must take at least 42 upper division units.
+
+If a course is offered every semester, that means it's offered in the fall and in the spring.
+
+Students may take up to 18 credits each semester.
+
+When making a four year plan, make sure to include all SCI and science requirements, if any.
+
+For community college transfers, students may only transfer lower division credits.  Students may not transfer upper division courses from a community college.
+
+Minors require 12 unique credits that aren't in another minor or major.
+
+
